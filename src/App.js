@@ -16,8 +16,7 @@ import React, { useEffect, useState, useMemo, useRef } from 'react';
 function App() {
   return (
     <>
-      <p>hi</p>
-      <p>hi</p>
+      <p></p>
     </>
   );
 }
